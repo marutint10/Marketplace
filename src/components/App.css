@@ -1,0 +1,26 @@
+body {
+  background-image: url(./banner.jpg);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.white {
+  color: white;
+}
+.h1 {
+  margin-top: 30px;
+  padding-top: 50px;
+  text-align: center;
+  color: gold;
+}
+.gold {
+  color: gold;
+}
+.p {
+  padding: 10px;
+}
